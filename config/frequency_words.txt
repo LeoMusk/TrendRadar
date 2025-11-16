@@ -1,5 +1,6 @@
 特斯拉
 马斯克
+grok
 
 英伟达
 NVIDIA
@@ -18,9 +19,18 @@ sora
 claude
 Anthropic
 
+李飞飞
+FEIFEI LI
+worldlabs
+World Labs
+世界模型
+world model
+
 ai
 !gai
 人工智能
+AGI
+ASI
 
 机器人
 人形机器人
