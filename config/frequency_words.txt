@@ -32,6 +32,7 @@ ASI
 
 机器人
 人形机器人
+Optimus
 
 qwen
 通义千问
