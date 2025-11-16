@@ -1,4 +1,3 @@
-特斯拉
 马斯克
 grok
 
@@ -11,6 +10,7 @@ AMD
 google
 gemini
 deepmind
+nanobanana
 
 chatgpt
 openai
@@ -26,8 +26,6 @@ World Labs
 世界模型
 world model
 
-ai
-!gai
 人工智能
 AGI
 ASI
